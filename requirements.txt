@@ -16,7 +16,7 @@ itsdangerous==0.24
 #Jinja2==2.10
 Jinja2==2.10.1
 MarkupSafe==1.0
-numpy==1.13.1
+numpy==1.21.0
 pandas==0.20.3
 passlib==1.7.1
 Pillow==5.1.0
